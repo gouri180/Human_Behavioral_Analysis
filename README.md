@@ -151,7 +151,7 @@ human-behaviour-analysis/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/human-behaviour-analysis.git
+git clone https://github.com/gouri180/Human_Behavioral_Analysis.git
 
 cd human-behaviour-analysis
 ```
